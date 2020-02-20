@@ -4,20 +4,20 @@ let database = require("./database.js")
 let initialEntries = [
 	{
 		creator_id: 1,
-		date: "12/11/2019",
+		date: "2019-12-11",
 		content:`Today was a great day in class! I felt like I learned 
 		a lot! React is tough but I'm sure I'll get it down soon!`
 	},
 	{
 		creator_id: 1,
-		date: "12/12/2019",
+		date: "2019-12-12",
 		content:`Sooooooo last night I got hit by a car. I vaguely remember 
 		crossing the street and then next thing I was waking up in a hospital.
 		Yesterday is no longer a good day.`
 	},
 	{
 		creator_id: 1,
-		date: "12/13/2019",
+		date: "2019-12-13",
 		content:`Doctors said that there don't seem to be any immediate dangers 
 		or lasting side effects. Looks like I can make a full recovery in time!
 		It's great but everything hurtssss. Stairs are now the worst thing ever
@@ -25,13 +25,13 @@ let initialEntries = [
 	},
 	{
 		creator_id: 1,
-		date: "12/20/2019",
+		date: "2019-12-20",
 		content:`The last week have been pretty bad. Feeling both terrible \
 		physically and mentally despite the upcoming holiday season`
 	},
 	{
 		creator_id: 1,
-		date: "12/23/2019",
+		date: "2019-12-23",
 		content:`My friends surprised me with a random holiday party! They got
 		me a bunch of nice care packages and it was absolutely wonderful! I love 
 		my friends so much!`
